@@ -1,8 +1,21 @@
-<<<<<<< HEAD
-# SWê³µí•™ë°í…ŒìŠ¤íŒ…
-### ì˜ë¥˜ì‰ì–´ë§í”Œëž«í¼ êµ¬í˜„
-=======
-### SW °øÇÐ ¹× Å×½ºÆÃ ÆÀÇÁ·ÎÁ§Æ®
-#### ÇÁ·ÎÁ§Æ® ÀÌ¸§: NOCS (New/Old Clothes Sharing)
+### SW ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½×½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®
+#### ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ì¸ï¿½: NOCS (New/Old Clothes Sharing)
 ##### ...
->>>>>>> upstream/main
+
+=======
+# NOCS (New/Old Clothes Sharing)
+
+## ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+- ï¿½ï¿½ï¿½Î¼ï¿½: Front-End ï¿½ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½), ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Back-End ï¿½ï¿½ï¿½ï¿½ï¿½ (GCPï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, API ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½)
+- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ (Githubï¿½ï¿½ Notion ï¿½ï¿½ï¿½ï¿½, Front-End ï¿½Ïºï¿½ ï¿½ï¿½ï¿½ï¿½)
+
+<br/>
+
+## ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+<img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white'> <img alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white'>
+
+<br/>
+
+## ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+<img alt='React' src='https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white'> <img alt='Axios' src='https://img.shields.io/badge/Axios-14161A?style=flat-square'> <img alt='MySQL' src='https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white'> <img alt='Django' src='https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white'>
